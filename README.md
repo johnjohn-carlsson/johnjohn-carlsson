@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="21abd335-a9ec-417e-82af-6f88c26a2d4d.png" alt="Your Image" style="width:80%; height:auto;">
+  <img src="21abd335-a9ec-417e-82af-6f88c26a2d4d.png" alt="Your Image" style="max-width:100%; height:auto;">
   <br>
   <br>
   <br>
